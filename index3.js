@@ -9,3 +9,4 @@ function checkFib(n, m) {
 }
 console.log('Fibonacci numbers in given range');
 console.log(checkFib(200, 800));
+
